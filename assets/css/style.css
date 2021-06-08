@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 .prjkt {
-  position: absolute; z-index: 1; width: 60px; top: 5%; right: 3%;
+  position: absolute; z-index: 1; width: 60px; top: 5%; left: 3%;
 }
 
 body {
